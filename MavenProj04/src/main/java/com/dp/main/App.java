@@ -7,7 +7,8 @@ package com.dp.main;
 public class App 
 {
 	public void add(int x, int y) {
-		System.out.println("hi");
+
+		System.out.println("hello");
 		System.out.println(x+y);
 	}
     public static void main( String[] args )
