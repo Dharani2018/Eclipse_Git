@@ -15,6 +15,9 @@ public class App
 	public void div(int a, int b) {
 		System.out.println("div "+(a/b));
 	}
+	public void mul(int a, int b) {
+		System.out.println("mul() "+(a*b));
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
